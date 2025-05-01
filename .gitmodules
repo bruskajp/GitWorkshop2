@@ -1,0 +1,3 @@
+[submodule "GitWorkshopSubmodule"]
+	path = GitWorkshopSubmodule
+	url = git@github.com:bruskajp/GitWorkshopSubmodule.git
